@@ -33,18 +33,6 @@
 
   <h3 align="center">LinkedIn Replica</h3>
 
-  <p align="center">
-    This is a website that is to copy LinkedIn and utlize React style components and Firebase for user authenication with post modal.
-    <br />
-    <a href=""><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="">View Demo</a>
-    ·
-    <a href=">Report Bug</a>
-    ·
-    <a href="">Request Feature</a>
-  </p>
 </div>
 
 
